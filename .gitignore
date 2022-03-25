@@ -1,0 +1,6 @@
+.env
+node_modules
+kompasid.apk
+.vscode
+reports
+.DS_Store
